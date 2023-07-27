@@ -10,6 +10,6 @@ class Solution {
         if(dp[i] != -1) return dp[i];
         int one = arr[i] + solve(i + 1, arr, dp);
         int two = arr[i] + solve(i + 2, arr, dp);
-        return dp[i]=Math.min(one, two);
+        return dp[i] = Math.min(one, two);
     }
 }
