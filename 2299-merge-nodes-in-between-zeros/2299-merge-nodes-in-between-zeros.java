@@ -10,7 +10,6 @@
  */
 class Solution {
     public ListNode mergeNodes(ListNode head) {
-        boolean flag = true;
         ListNode prev = head;
         ListNode curr = head.next;
         while(curr != null){    
