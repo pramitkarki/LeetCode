@@ -16,4 +16,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2556-convert-the-temperature](https://github.com/pramitkarki/LeetCode/tree/master/2556-convert-the-temperature) |
+## Hash Table
+|  |
+| ------- |
+| [3412-permutation-difference-between-two-strings](https://github.com/pramitkarki/LeetCode/tree/master/3412-permutation-difference-between-two-strings) |
+## String
+|  |
+| ------- |
+| [3412-permutation-difference-between-two-strings](https://github.com/pramitkarki/LeetCode/tree/master/3412-permutation-difference-between-two-strings) |
 <!---LeetCode Topics End-->
