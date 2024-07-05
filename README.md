@@ -12,4 +12,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2299-merge-nodes-in-between-zeros](https://github.com/pramitkarki/LeetCode/tree/master/2299-merge-nodes-in-between-zeros) |
+## Math
+|  |
+| ------- |
+| [2556-convert-the-temperature](https://github.com/pramitkarki/LeetCode/tree/master/2556-convert-the-temperature) |
 <!---LeetCode Topics End-->
