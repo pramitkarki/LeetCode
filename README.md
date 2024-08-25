@@ -41,4 +41,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0624-maximum-distance-in-arrays](https://github.com/pramitkarki/LeetCode/tree/master/0624-maximum-distance-in-arrays) |
 | [0890-lemonade-change](https://github.com/pramitkarki/LeetCode/tree/master/0890-lemonade-change) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0476-number-complement](https://github.com/pramitkarki/LeetCode/tree/master/0476-number-complement) |
 <!---LeetCode Topics End-->
