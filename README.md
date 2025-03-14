@@ -21,11 +21,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1642-water-bottles](https://github.com/pramitkarki/LeetCode/tree/master/1642-water-bottles) |
 | [2556-convert-the-temperature](https://github.com/pramitkarki/LeetCode/tree/master/2556-convert-the-temperature) |
 | [2645-pass-the-pillow](https://github.com/pramitkarki/LeetCode/tree/master/2645-pass-the-pillow) |
+| [3227-find-missing-and-repeated-values](https://github.com/pramitkarki/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 ## Hash Table
 |  |
 | ------- |
 | [0782-jewels-and-stones](https://github.com/pramitkarki/LeetCode/tree/master/0782-jewels-and-stones) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/pramitkarki/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [3227-find-missing-and-repeated-values](https://github.com/pramitkarki/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3412-permutation-difference-between-two-strings](https://github.com/pramitkarki/LeetCode/tree/master/3412-permutation-difference-between-two-strings) |
 ## String
 |  |
@@ -41,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/pramitkarki/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2551-apply-operations-to-an-array](https://github.com/pramitkarki/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/pramitkarki/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [3227-find-missing-and-repeated-values](https://github.com/pramitkarki/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/pramitkarki/LeetCode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/pramitkarki/LeetCode/tree/master/3429-special-array-i) |
 ## Greedy
@@ -65,4 +68,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [2551-apply-operations-to-an-array](https://github.com/pramitkarki/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/pramitkarki/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+## Matrix
+|  |
+| ------- |
+| [3227-find-missing-and-repeated-values](https://github.com/pramitkarki/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 <!---LeetCode Topics End-->
