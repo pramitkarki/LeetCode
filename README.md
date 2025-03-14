@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [1642-water-bottles](https://github.com/pramitkarki/LeetCode/tree/master/1642-water-bottles) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/pramitkarki/LeetCode/tree/master/2299-merge-nodes-in-between-zeros) |
+| [2551-apply-operations-to-an-array](https://github.com/pramitkarki/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [2645-pass-the-pillow](https://github.com/pramitkarki/LeetCode/tree/master/2645-pass-the-pillow) |
 ## Math
 |  |
@@ -37,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0890-lemonade-change](https://github.com/pramitkarki/LeetCode/tree/master/0890-lemonade-change) |
 | [1293-three-consecutive-odds](https://github.com/pramitkarki/LeetCode/tree/master/1293-three-consecutive-odds) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/pramitkarki/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [2551-apply-operations-to-an-array](https://github.com/pramitkarki/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/pramitkarki/LeetCode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/pramitkarki/LeetCode/tree/master/3429-special-array-i) |
 ## Greedy
@@ -56,4 +58,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/pramitkarki/LeetCode/tree/master/0386-lexicographical-numbers) |
+## Two Pointers
+|  |
+| ------- |
+| [2551-apply-operations-to-an-array](https://github.com/pramitkarki/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 <!---LeetCode Topics End-->
