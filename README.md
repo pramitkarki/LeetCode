@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0782-jewels-and-stones](https://github.com/pramitkarki/LeetCode/tree/master/0782-jewels-and-stones) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/pramitkarki/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3412-permutation-difference-between-two-strings](https://github.com/pramitkarki/LeetCode/tree/master/3412-permutation-difference-between-two-strings) |
 ## String
 |  |
@@ -39,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1293-three-consecutive-odds](https://github.com/pramitkarki/LeetCode/tree/master/1293-three-consecutive-odds) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/pramitkarki/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2551-apply-operations-to-an-array](https://github.com/pramitkarki/LeetCode/tree/master/2551-apply-operations-to-an-array) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/pramitkarki/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/pramitkarki/LeetCode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/pramitkarki/LeetCode/tree/master/3429-special-array-i) |
 ## Greedy
@@ -62,4 +64,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2551-apply-operations-to-an-array](https://github.com/pramitkarki/LeetCode/tree/master/2551-apply-operations-to-an-array) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/pramitkarki/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 <!---LeetCode Topics End-->
