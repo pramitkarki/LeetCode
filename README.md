@@ -26,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0782-jewels-and-stones](https://github.com/pramitkarki/LeetCode/tree/master/0782-jewels-and-stones) |
+| [2308-divide-array-into-equal-pairs](https://github.com/pramitkarki/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/pramitkarki/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3227-find-missing-and-repeated-values](https://github.com/pramitkarki/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3412-permutation-difference-between-two-strings](https://github.com/pramitkarki/LeetCode/tree/master/3412-permutation-difference-between-two-strings) |
@@ -41,6 +42,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0890-lemonade-change](https://github.com/pramitkarki/LeetCode/tree/master/0890-lemonade-change) |
 | [1293-three-consecutive-odds](https://github.com/pramitkarki/LeetCode/tree/master/1293-three-consecutive-odds) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/pramitkarki/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [2308-divide-array-into-equal-pairs](https://github.com/pramitkarki/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2551-apply-operations-to-an-array](https://github.com/pramitkarki/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/pramitkarki/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3227-find-missing-and-repeated-values](https://github.com/pramitkarki/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
@@ -55,6 +57,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0476-number-complement](https://github.com/pramitkarki/LeetCode/tree/master/0476-number-complement) |
+| [2308-divide-array-into-equal-pairs](https://github.com/pramitkarki/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -72,4 +75,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3227-find-missing-and-repeated-values](https://github.com/pramitkarki/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
+## Counting
+|  |
+| ------- |
+| [2308-divide-array-into-equal-pairs](https://github.com/pramitkarki/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 <!---LeetCode Topics End-->
