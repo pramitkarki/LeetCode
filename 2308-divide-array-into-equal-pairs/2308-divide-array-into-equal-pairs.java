@@ -1,10 +1,7 @@
 class Solution {
     public boolean divideArray(int[] nums) {
-        Set<Integer> hs = new HashSet<>()    ;
-        for(int x : nums){
-            if(hs.contains(x)) hs.remove(x);
-            else hs.add(x);
-        }
-        return hs.isEmpty();
+        Arrays.sort(nums);
+        for(int i = 0; i < nums.length - 1; i += 2) if(nums[i] != nums[i + 1]) return false;
+        return true;
     }
 }
