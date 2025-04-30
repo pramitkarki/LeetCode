@@ -1,14 +1,8 @@
 class Solution {
     public int findNumbers(int[] nums) {
-        String arr[] = new String[nums.length];
-
-        for(int i = 0; i < nums.length; i++){
-            arr[i] = String.valueOf(nums[i]);
-        }
-
         int cou = 0;
-        for(String x : arr){
-            if(x.length() % 2 == 0) cou++;
+        for(int x : nums){
+            if((x >= 10 && x <= 99) || (x >= 1000 && x <= 9999) || x == 100000)cou++;
         }
         return cou;
     }
