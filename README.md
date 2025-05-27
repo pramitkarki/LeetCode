@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1642-water-bottles](https://github.com/pramitkarki/LeetCode/tree/master/1642-water-bottles) |
 | [2556-convert-the-temperature](https://github.com/pramitkarki/LeetCode/tree/master/2556-convert-the-temperature) |
 | [2645-pass-the-pillow](https://github.com/pramitkarki/LeetCode/tree/master/2645-pass-the-pillow) |
+| [3172-divisible-and-non-divisible-sums-difference](https://github.com/pramitkarki/LeetCode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3227-find-missing-and-repeated-values](https://github.com/pramitkarki/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 ## Hash Table
 |  |
