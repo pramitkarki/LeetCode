@@ -1,11 +1,12 @@
 class Solution {
-    public int numWaterBottles(int numBottles, int numExchange) {
-        if(numBottles < numExchange) return numBottles;
-        return numBottles + dfs(numBottles, numExchange);
-    }
-    public int dfs(int empty, int xchng){
-        if(empty < xchng) return 0;
-        int full = empty / xchng;
-        return full + dfs(full + (empty % xchng), xchng); 
+    public int numWaterBottles(int full, int exchange) {
+        int ans = full;
+        int empty = full;
+        while((empty/exchange) > 0){
+            int fill = empty / exchange;
+            empty = fill + empty % exchange;
+            ans += fill;
+        }
+        return ans;
     }
 }
