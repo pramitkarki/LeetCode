@@ -5,15 +5,12 @@ class Solution {
         int ans = 0;
         for(int i = 0; i < fullWeek; i++){
             int diff = i * (i + 1) / 2;
-            int temp_n = 7 + i;
-            ans += (temp_n * (temp_n + 1) / 2) - diff;
-            System.out.println(ans + "----");
+            int tempN = 7 + i;
+            ans += (tempN * (tempN + 1) / 2) - diff;
         }
         int diff = fullWeek * (fullWeek + 1) / 2;
         int rem = lastDays + fullWeek;
-        System.out.println(ans);
         ans += (rem * (rem + 1) / 2) - diff;
-        System.out.println(diff + "--" + rem + "--" + ans);
         return ans;        
     }
 }
