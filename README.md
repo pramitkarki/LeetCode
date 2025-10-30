@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2299-merge-nodes-in-between-zeros](https://github.com/pramitkarki/LeetCode/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2551-apply-operations-to-an-array](https://github.com/pramitkarki/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [2645-pass-the-pillow](https://github.com/pramitkarki/LeetCode/tree/master/2645-pass-the-pillow) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/pramitkarki/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Math
 |  |
 | ------- |
@@ -24,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2645-pass-the-pillow](https://github.com/pramitkarki/LeetCode/tree/master/2645-pass-the-pillow) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/pramitkarki/LeetCode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3227-find-missing-and-repeated-values](https://github.com/pramitkarki/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/pramitkarki/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -38,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0782-jewels-and-stones](https://github.com/pramitkarki/LeetCode/tree/master/0782-jewels-and-stones) |
 | [3194-find-words-containing-character](https://github.com/pramitkarki/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3412-permutation-difference-between-two-strings](https://github.com/pramitkarki/LeetCode/tree/master/3412-permutation-difference-between-two-strings) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/pramitkarki/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Array
 |  |
 | ------- |
@@ -84,4 +87,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2308-divide-array-into-equal-pairs](https://github.com/pramitkarki/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
+## Combinatorics
+|  |
+| ------- |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/pramitkarki/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+## Number Theory
+|  |
+| ------- |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/pramitkarki/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 <!---LeetCode Topics End-->
