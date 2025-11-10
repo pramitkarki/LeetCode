@@ -53,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1293-three-consecutive-odds](https://github.com/pramitkarki/LeetCode/tree/master/1293-three-consecutive-odds) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/pramitkarki/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/pramitkarki/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/pramitkarki/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2308-divide-array-into-equal-pairs](https://github.com/pramitkarki/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2551-apply-operations-to-an-array](https://github.com/pramitkarki/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/pramitkarki/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
@@ -66,6 +67,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0624-maximum-distance-in-arrays](https://github.com/pramitkarki/LeetCode/tree/master/0624-maximum-distance-in-arrays) |
 | [0890-lemonade-change](https://github.com/pramitkarki/LeetCode/tree/master/0890-lemonade-change) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/pramitkarki/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -100,4 +102,20 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/pramitkarki/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+## Binary Search
+|  |
+| ------- |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/pramitkarki/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
+## Sliding Window
+|  |
+| ------- |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/pramitkarki/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
+## Sorting
+|  |
+| ------- |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/pramitkarki/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
+## Prefix Sum
+|  |
+| ------- |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/pramitkarki/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
 <!---LeetCode Topics End-->
