@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/pramitkarki/LeetCode/tree/master/0009-palindrome-number) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/pramitkarki/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1642-water-bottles](https://github.com/pramitkarki/LeetCode/tree/master/1642-water-bottles) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/pramitkarki/LeetCode/tree/master/1817-calculate-money-in-leetcode-bank) |
