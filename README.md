@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0009-palindrome-number](https://github.com/pramitkarki/LeetCode/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/pramitkarki/LeetCode/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/pramitkarki/LeetCode/tree/master/0268-missing-number) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/pramitkarki/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1642-water-bottles](https://github.com/pramitkarki/LeetCode/tree/master/1642-water-bottles) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/pramitkarki/LeetCode/tree/master/1817-calculate-money-in-leetcode-bank) |
@@ -33,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/pramitkarki/LeetCode/tree/master/0268-missing-number) |
 | [0782-jewels-and-stones](https://github.com/pramitkarki/LeetCode/tree/master/0782-jewels-and-stones) |
 | [2308-divide-array-into-equal-pairs](https://github.com/pramitkarki/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/pramitkarki/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
@@ -51,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/pramitkarki/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/pramitkarki/LeetCode/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/pramitkarki/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/pramitkarki/LeetCode/tree/master/0283-move-zeroes) |
 | [0624-maximum-distance-in-arrays](https://github.com/pramitkarki/LeetCode/tree/master/0624-maximum-distance-in-arrays) |
 | [0890-lemonade-change](https://github.com/pramitkarki/LeetCode/tree/master/0890-lemonade-change) |
@@ -75,6 +78,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/pramitkarki/LeetCode/tree/master/0268-missing-number) |
 | [0476-number-complement](https://github.com/pramitkarki/LeetCode/tree/master/0476-number-complement) |
 | [2308-divide-array-into-equal-pairs](https://github.com/pramitkarki/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 ## Depth-First Search
@@ -112,6 +116,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/pramitkarki/LeetCode/tree/master/0268-missing-number) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/pramitkarki/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Sliding Window
 |  |
@@ -120,6 +125,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/pramitkarki/LeetCode/tree/master/0268-missing-number) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/pramitkarki/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Prefix Sum
 |  |
