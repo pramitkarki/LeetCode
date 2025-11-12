@@ -55,6 +55,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0189-rotate-array](https://github.com/pramitkarki/LeetCode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/pramitkarki/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/pramitkarki/LeetCode/tree/master/0283-move-zeroes) |
+| [0485-max-consecutive-ones](https://github.com/pramitkarki/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0624-maximum-distance-in-arrays](https://github.com/pramitkarki/LeetCode/tree/master/0624-maximum-distance-in-arrays) |
 | [0890-lemonade-change](https://github.com/pramitkarki/LeetCode/tree/master/0890-lemonade-change) |
 | [1293-three-consecutive-odds](https://github.com/pramitkarki/LeetCode/tree/master/1293-three-consecutive-odds) |
