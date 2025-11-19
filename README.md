@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1642-water-bottles](https://github.com/pramitkarki/LeetCode/tree/master/1642-water-bottles) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/pramitkarki/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/pramitkarki/LeetCode/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2551-apply-operations-to-an-array](https://github.com/pramitkarki/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [2645-pass-the-pillow](https://github.com/pramitkarki/LeetCode/tree/master/2645-pass-the-pillow) |
@@ -36,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0268-missing-number](https://github.com/pramitkarki/LeetCode/tree/master/0268-missing-number) |
 | [0782-jewels-and-stones](https://github.com/pramitkarki/LeetCode/tree/master/0782-jewels-and-stones) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/pramitkarki/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2308-divide-array-into-equal-pairs](https://github.com/pramitkarki/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/pramitkarki/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3227-find-missing-and-repeated-values](https://github.com/pramitkarki/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
@@ -62,6 +64,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/pramitkarki/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/pramitkarki/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/pramitkarki/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/pramitkarki/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2308-divide-array-into-equal-pairs](https://github.com/pramitkarki/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2551-apply-operations-to-an-array](https://github.com/pramitkarki/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/pramitkarki/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
@@ -128,6 +131,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0268-missing-number](https://github.com/pramitkarki/LeetCode/tree/master/0268-missing-number) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/pramitkarki/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/pramitkarki/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 ## Prefix Sum
 |  |
 | ------- |
