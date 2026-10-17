@@ -43,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3227-find-missing-and-repeated-values](https://github.com/pramitkarki/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3412-permutation-difference-between-two-strings](https://github.com/pramitkarki/LeetCode/tree/master/3412-permutation-difference-between-two-strings) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/pramitkarki/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/pramitkarki/LeetCode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## String
 |  |
 | ------- |
@@ -73,6 +74,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/pramitkarki/LeetCode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/pramitkarki/LeetCode/tree/master/3429-special-array-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/pramitkarki/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/pramitkarki/LeetCode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## Greedy
 |  |
 | ------- |
@@ -132,6 +134,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/pramitkarki/LeetCode/tree/master/0268-missing-number) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/pramitkarki/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/pramitkarki/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/pramitkarki/LeetCode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## Prefix Sum
 |  |
 | ------- |
